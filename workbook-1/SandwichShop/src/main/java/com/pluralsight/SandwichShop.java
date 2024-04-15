@@ -2,7 +2,7 @@ package com.pluralsight;
 
 import java.util.Scanner;
 
-public class SandiwhcShop {
+public class SandwichShop {
     public static void main(String[] args) {
         // Constants for base prices and discount rates
         final double REGULAR_PRICE = 5.45;
